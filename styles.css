@@ -1,0 +1,12 @@
+body{
+    background: #000;
+}
+canvas{
+    background: white;
+    display:block;
+    margin:30px auto 0px;
+}
+p{
+    color: white;
+    margin-left: 20%;
+}
